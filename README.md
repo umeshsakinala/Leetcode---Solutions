@@ -1,6 +1,6 @@
 # Leetcode---Solutions
 
-<h2><a href="https://leetcode.com/problems/reverse-words-in-a-string/">151. Reverse Words in a String</h3><hr><div><p>Given the input string<code>s</code> reverse the order in the <em>words</em>.</p>
+<h2><a href="https://leetcode.com/problems/reverse-words-in-a-string/">151. Reverse Words in a String</h2><h3>Medium</h3><hr><div><p>Given the input string<code>s</code> reverse the order in the <em>words</em>.</p>
 
  <p>A <strong>word</strong> is defined as a sequence of non-space characters. The words in <code>s</code> will be separated by at least one space.
 
