@@ -1,6 +1,7 @@
 #Leedcode---Solutions
 <h2><a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/">452. Minimum Number of Arrows to Remove Ballons</h2>
   <h3>Medium</h3>
+	<hr>
   <p>
     There are some spherical balloons taped onto a flat wall that represents the XY-plane. The balloons are represented as a 2D integer array <code>points</code> where 
     <code>points[i] = [xstart, xend]</code> denotes a balloon whose <strong>horizontal diameter</strong> stretches between <code>xstart</code> and <code>xend</code>. You do not know the exact y-coordinates of the balloons.
@@ -12,7 +13,6 @@
   <p>
     Given the array <code>points</code>, return the <strong>minimum</strong> number of arrows that must be shot to burst all balloons.
   </p>
-  <hr>
   <p>
     <strong>Example 1:</strong>
   </p>
