@@ -5,7 +5,7 @@
   </a>
 </h2>
 <h3>
-  Medium
+  Easy
 </h3>
 <p>In an alien language, surprisingly, they also use English lowercase letters, but possibly in a different <code>order</code>. The <code>order</code> of the alphabet is some permutation of lowercase letters.</p>
 
