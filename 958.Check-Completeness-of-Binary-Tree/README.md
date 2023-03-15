@@ -17,8 +17,8 @@ nodes inclusive at the last level <code>h</code>.</p>
 <img alt="" src="https://assets.leetcode.com/uploads/2018/12/15/complete-binary-tree-1.png" style="width: 180px; height: 145px;">
 <pre><strong>Input:</strong> root = [1,2,3,4,5,6]
 <strong>Output:</strong> true
-<strong>Explanation:</strong> Every level before the last is full (ie. levels with node-values {1} and {2, 3}), and all nodes in the last level ({4, 5, 6}) are as 
-far left as possible.
+<strong>Explanation:</strong> Every level before the last is full (ie. levels with node-values {1} and {2, 3}), and all nodes in the last 
+level ({4, 5, 6}) are as far left as possible.
 </pre>
 
 <p><strong>Example 2:</strong></p>
