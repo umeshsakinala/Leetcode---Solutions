@@ -22,7 +22,8 @@
 <img alt="" src="https://assets.leetcode.com/uploads/2020/08/12/bb.png" style="width: 121px; height: 101px;">
 <pre><strong>Input:</strong> nums = [2,1,3]
 <strong>Output:</strong> 1
-<strong>Explanation:</strong> We can reorder nums to be [2,3,1] which will yield the same BST. There are no other ways to reorder nums which will yield the same BST.
+<strong>Explanation:</strong> We can reorder nums to be [2,3,1] which will yield the same BST. There are no other ways to reorder nums which will
+yield the same BST.
 </pre>
 
 <p><strong>Example 2:</strong></p>
