@@ -24,7 +24,9 @@
 <pre><strong>Input:</strong> req_skills = ["java","nodejs","reactjs"], people = [["java"],["nodejs"],["nodejs","reactjs"]]
 <strong>Output:</strong> [0,2]
 </pre><p><strong>Example 2:</strong></p>
-<pre><strong>Input:</strong> req_skills = ["algorithms","math","java","reactjs","csharp","aws"], people = [["algorithms","math","java"],["algorithms","math","reactjs"],["java","csharp","aws"],["reactjs","csharp"],["csharp","math"],["aws","java"]]
+<pre><strong>Input:</strong> req_skills = ["algorithms","math","java","reactjs","csharp","aws"], 
+people = [["algorithms","math","java"],["algorithms","math","reactjs"],["java","csharp","aws"],
+["reactjs","csharp"],["csharp","math"],["aws","java"]]
 <strong>Output:</strong> [1,2]
 </pre>
 <p>&nbsp;</p>
