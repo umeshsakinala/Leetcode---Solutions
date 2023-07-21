@@ -23,7 +23,8 @@
 
 <pre><strong>Input:</strong> nums = [2,2,2,2,2]
 <strong>Output:</strong> 5
-<strong>Explanation:</strong> The length of the longest increasing subsequence is 1, and there are 5 increasing subsequences of length 1, so output 5.
+<strong>Explanation:</strong> The length of the longest increasing subsequence is 1, and there are 5 increasing subsequences 
+of length 1, so output 5.
 </pre>
 
 <p>&nbsp;</p>
