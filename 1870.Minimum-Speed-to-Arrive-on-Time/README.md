@@ -26,8 +26,10 @@
 <strong>Output:</strong> 1
 <strong>Explanation: </strong>At speed 1:
 - The first train ride takes 1/1 = 1 hour.
-- Since we are already at an integer hour, we depart immediately at the 1 hour mark. The second train takes 3/1 = 3 hours.
-- Since we are already at an integer hour, we depart immediately at the 4 hour mark. The third train takes 2/1 = 2 hours.
+- Since we are already at an integer hour, we depart immediately at the 1 hour mark. The second train takes
+3/1 = 3 hours.
+- Since we are already at an integer hour, we depart immediately at the 4 hour mark. The third train takes 
+2/1 = 2 hours.
 - You will arrive at exactly the 6 hour mark.
 </pre>
 
@@ -37,8 +39,10 @@
 <strong>Output:</strong> 3
 <strong>Explanation: </strong>At speed 3:
 - The first train ride takes 1/3 = 0.33333 hours.
-- Since we are not at an integer hour, we wait until the 1 hour mark to depart. The second train ride takes 3/3 = 1 hour.
-- Since we are already at an integer hour, we depart immediately at the 2 hour mark. The third train takes 2/3 = 0.66667 hours.
+- Since we are not at an integer hour, we wait until the 1 hour mark to depart. The second train ride takes 
+3/3 = 1 hour.
+- Since we are already at an integer hour, we depart immediately at the 2 hour mark. The third train takes 
+2/3 = 0.66667 hours.
 - You will arrive at the 2.66667 hour mark.
 </pre>
 
