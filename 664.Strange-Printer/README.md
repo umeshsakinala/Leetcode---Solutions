@@ -28,7 +28,8 @@
 
 <pre><strong>Input:</strong> s = "aba"
 <strong>Output:</strong> 2
-<strong>Explanation:</strong> Print "aaa" first and then print "b" from the second place of the string, which will cover the existing character 'a'.
+<strong>Explanation:</strong> Print "aaa" first and then print "b" from the second place of the string, which will cover the
+existing character 'a'.
 </pre>
 
 <p>&nbsp;</p>
