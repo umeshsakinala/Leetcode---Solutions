@@ -20,14 +20,16 @@
 
 <pre><strong>Input:</strong> n = 3, goal = 3, k = 1
 <strong>Output:</strong> 6
-<strong>Explanation:</strong> There are 6 possible playlists: [1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], and [3, 2, 1].
+<strong>Explanation:</strong> There are 6 possible playlists: [1, 2, 3], [1, 3, 2], [2, 1, 3], [2, 3, 1], [3, 1, 2], and 
+[3, 2, 1].
 </pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre><strong>Input:</strong> n = 2, goal = 3, k = 0
 <strong>Output:</strong> 6
-<strong>Explanation:</strong> There are 6 possible playlists: [1, 1, 2], [1, 2, 1], [2, 1, 1], [2, 2, 1], [2, 1, 2], and [1, 2, 2].
+<strong>Explanation:</strong> There are 6 possible playlists: [1, 1, 2], [1, 2, 1], [2, 1, 1], [2, 2, 1], [2, 1, 2], and 
+[1, 2, 2].
 </pre>
 
 <p><strong>Example 3:</strong></p>
