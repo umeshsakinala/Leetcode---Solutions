@@ -8,7 +8,7 @@ public:
         while(start <= end)
         {
             int mid = start + (end-start)/2;
-            int x = matrix[mid/m][mid%m];
+            int x = matrix[mid/m][mid%m]; // Here x is the middle element of the whole matrix;
             if(x > target)
             {
                 end = mid - 1;
