@@ -22,7 +22,8 @@
 
 <pre><strong>Input:</strong> n = 4, roads = [[0,1],[0,3],[1,2],[1,3]]
 <strong>Output:</strong> 4
-<strong>Explanation:</strong> The network rank of cities 0 and 1 is 4 as there are 4 roads that are connected to either 0 or 1. The road between 0 and 1 is only counted once.
+<strong>Explanation:</strong> The network rank of cities 0 and 1 is 4 as there are 4 roads that are connected to either 0 or 1.
+The road between 0 and 1 is only counted once.
 </pre>
 
 <p><strong>Example 2:</strong></p>
