@@ -23,8 +23,10 @@
 <strong>Explanation:</strong> The figure above describes the graph.
 The following figure shows all the possible MSTs:
 <img alt="" src="https://assets.leetcode.com/uploads/2020/06/04/msts.png" style="width: 540px; height: 553px;">
-Notice that the two edges 0 and 1 appear in all MSTs, therefore they are critical edges, so we return them in the first list of the output.
-The edges 2, 3, 4, and 5 are only part of some MSTs, therefore they are considered pseudo-critical edges. We add them to the second list of the output.
+Notice that the two edges 0 and 1 appear in all MSTs, therefore they are critical edges, so we return them in 
+the first list of the output.
+The edges 2, 3, 4, and 5 are only part of some MSTs, therefore they are considered pseudo-critical edges. We add 
+them to the second list of the output.
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -33,7 +35,8 @@ The edges 2, 3, 4, and 5 are only part of some MSTs, therefore they are consider
 
 <pre><strong>Input:</strong> n = 4, edges = [[0,1,1],[1,2,1],[2,3,1],[0,3,1]]
 <strong>Output:</strong> [[],[0,1,2,3]]
-<strong>Explanation:</strong> We can observe that since all 4 edges have equal weight, choosing any 3 edges from the given 4 will yield an MST. Therefore all 4 edges are pseudo-critical.
+<strong>Explanation:</strong> We can observe that since all 4 edges have equal weight, choosing any 3 edges from the given 
+4 will yield an MST. Therefore all 4 edges are pseudo-critical.
 </pre>
 
 <p>&nbsp;</p>
