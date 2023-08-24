@@ -43,4 +43,32 @@
 &nbsp; "acknowledgment &nbsp;",
 &nbsp; "shall be &nbsp; &nbsp; &nbsp; &nbsp;"
 ]
+<strong>Explanation:</strong> Note that the last line is "shall be    " instead of "shall     be", because the last line 
+must be left-justified instead of fully-justified.
+Note that the second line is also left-justified because it contains only one word.</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre><strong>Input:</strong> words = ["Science","is","what","we","understand","well","enough","to","explain","to","a","computer.",
+"Art","is","everything","else","we","do"], maxWidth = 20
+<strong>Output:</strong>
+[
+&nbsp; "Science &nbsp;is &nbsp;what we",
+  "understand &nbsp; &nbsp; &nbsp;well",
+&nbsp; "enough to explain to",
+&nbsp; "a &nbsp;computer. &nbsp;Art is",
+&nbsp; "everything &nbsp;else &nbsp;we",
+&nbsp; "do &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"
+]</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= words.length &lt;= 300</code></li>
+	<li><code>1 &lt;= words[i].length &lt;= 20</code></li>
+	<li><code>words[i]</code> consists of only English letters and symbols.</li>
+	<li><code>1 &lt;= maxWidth &lt;= 100</code></li>
+	<li><code>words[i].length &lt;= maxWidth</code></li>
+</ul>
 
