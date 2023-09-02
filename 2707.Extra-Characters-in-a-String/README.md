@@ -16,7 +16,8 @@
 
 <pre><strong>Input:</strong> s = "leetscode", dictionary = ["leet","code","leetcode"]
 <strong>Output:</strong> 1
-<strong>Explanation:</strong> We can break s in two substrings: "leet" from index 0 to 3 and "code" from index 5 to 8. There is only 1 unused character (at index 4), so we return 1.
+<strong>Explanation:</strong> We can break s in two substrings: "leet" from index 0 to 3 and "code" from index 5 to 8. There is 
+only 1 unused character (at index 4), so we return 1.
 
 </pre>
 
@@ -24,7 +25,8 @@
 
 <pre><strong>Input:</strong> s = "sayhelloworld", dictionary = ["hello","world"]
 <strong>Output:</strong> 3
-<strong>Explanation:</strong> We can break s in two substrings: "hello" from index 3 to 7 and "world" from index 8 to 12. The characters at indices 0, 1, 2 are not used in any substring and thus are considered as extra characters. Hence, we return 3.
+<strong>Explanation:</strong> We can break s in two substrings: "hello" from index 3 to 7 and "world" from index 8 to 12. The 
+characters at indices 0, 1, 2 are not used in any substring and thus are considered as extra characters. Hence, we return 3.
 </pre>
 
 <p>&nbsp;</p>
