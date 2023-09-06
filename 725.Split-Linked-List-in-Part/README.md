@@ -30,7 +30,8 @@ The last element output[4] is null, but its string representation as a ListNode 
 <pre><strong>Input:</strong> head = [1,2,3,4,5,6,7,8,9,10], k = 3
 <strong>Output:</strong> [[1,2,3,4],[5,6,7],[8,9,10]]
 <strong>Explanation:</strong>
-The input has been split into consecutive parts with size difference at most 1, and earlier parts are a larger size than the later parts.
+The input has been split into consecutive parts with size difference at most 1, and earlier parts are a larger size than the 
+later parts.
 </pre>
 
 <p>&nbsp;</p>
