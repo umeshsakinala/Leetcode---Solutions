@@ -28,7 +28,8 @@ This is better than the route of [1,2,2,2,5], where the maximum absolute differe
 
 <pre><strong>Input:</strong> heights = [[1,2,3],[3,8,4],[5,3,5]]
 <strong>Output:</strong> 1
-<strong>Explanation:</strong> The route of [1,2,3,4,5] has a maximum absolute difference of 1 in consecutive cells, which is better than route [1,3,5,3,5].
+<strong>Explanation:</strong> The route of [1,2,3,4,5] has a maximum absolute difference of 1 in consecutive cells, which is better than
+route [1,3,5,3,5].
 </pre>
 
 <p><strong>Example 3:</strong></p>
