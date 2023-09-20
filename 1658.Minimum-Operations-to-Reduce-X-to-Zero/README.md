@@ -29,7 +29,8 @@
 
 <pre><strong>Input:</strong> nums = [3,2,20,1,1,3], x = 10
 <strong>Output:</strong> 5
-<strong>Explanation:</strong> The optimal solution is to remove the last three elements and the first two elements (5 operations in total) to reduce x to zero.
+<strong>Explanation:</strong> The optimal solution is to remove the last three elements and the first two elements (5 operations in total)
+to reduce x to zero.
 </pre>
 
 <p>&nbsp;</p>
