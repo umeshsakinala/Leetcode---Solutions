@@ -21,14 +21,18 @@
 
 <pre><strong>Input:</strong> cost = [1,2,3,2], time = [1,2,3,2]
 <strong>Output:</strong> 3
-<strong>Explanation:</strong> The walls at index 0 and 1 will be painted by the paid painter, and it will take 3 units of time; meanwhile, the free painter will paint the walls at index 2 and 3, free of cost in 2 units of time. Thus, the total cost is 1 + 2 = 3.
+<strong>Explanation:</strong> The walls at index 0 and 1 will be painted by the paid painter, and it will take 3 units of time; 
+meanwhile, the free painter will paint the walls at index 2 and 3, free of cost in 2 units of time. Thus, the total cost is
+1 + 2 = 3.
 </pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre><strong>Input:</strong> cost = [2,3,4,2], time = [1,1,1,1]
 <strong>Output:</strong> 4
-<strong>Explanation:</strong> The walls at index 0 and 3 will be painted by the paid painter, and it will take 2 units of time; meanwhile, the free painter will paint the walls at index 1 and 2, free of cost in 2 units of time. Thus, the total cost is 2 + 2 = 4.
+<strong>Explanation:</strong> The walls at index 0 and 3 will be painted by the paid painter, and it will take 2 units of time;
+meanwhile, the free painter will paint the walls at index 1 and 2, free of cost in 2 units of time. Thus, the total cost is
+2 + 2 = 4.
 </pre>
 
 <p>&nbsp;</p>
