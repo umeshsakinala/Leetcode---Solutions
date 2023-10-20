@@ -33,7 +33,8 @@ return res
 
 <pre><strong>Input:</strong> nestedList = [[1,1],2,[1,1]]
 <strong>Output:</strong> [1,1,2,1,1]
-<strong>Explanation:</strong> By calling next repeatedly until hasNext returns false, the order of elements returned by next should be: [1,1,2,1,1].
+<strong>Explanation:</strong> By calling next repeatedly until hasNext returns false, the order of elements returned by next should be: 
+[1,1,2,1,1].
 </pre>
 
 <p><strong>Example 2:</strong></p>
