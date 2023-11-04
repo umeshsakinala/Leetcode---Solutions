@@ -25,7 +25,8 @@
 -The ant at index 1 is named B and going to the right.
 -The ant at index 3 is named C and going to the left.
 -The ant at index 4 is named D and going to the left.
-The last moment when an ant was on the plank is t = 4 seconds. After that, it falls immediately out of the plank. (i.e., We can say that at t = 4.0000000001, there are no ants on the plank).
+The last moment when an ant was on the plank is t = 4 seconds. After that, it falls immediately out of the plank. (i.e., We can 
+say that at t = 4.0000000001, there are no ants on the plank).
 </pre>
 
 <p><strong>Example 2:</strong></p>
