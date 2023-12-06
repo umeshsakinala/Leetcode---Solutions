@@ -25,14 +25,16 @@
 
 <pre><strong>Input:</strong> n = 10
 <strong>Output:</strong> 37
-<strong>Explanation:</strong>&nbsp;After the 10<sup>th</sup> day, the total is (1 + 2 + 3 + 4 + 5 + 6 + 7) + (2 + 3 + 4) = 37. Notice that on the 2<sup>nd</sup> Monday, Hercy only puts in $2.
+<strong>Explanation:</strong>&nbsp;After the 10<sup>th</sup> day, the total is (1 + 2 + 3 + 4 + 5 + 6 + 7) + (2 + 3 + 4) = 37. 
+Notice that on the 2<sup>nd</sup> Monday, Hercy only puts in $2.
 </pre>
 
 <p><strong>Example 3:</strong></p>
 
 <pre><strong>Input:</strong> n = 20
 <strong>Output:</strong> 96
-<strong>Explanation:</strong>&nbsp;After the 20<sup>th</sup> day, the total is (1 + 2 + 3 + 4 + 5 + 6 + 7) + (2 + 3 + 4 + 5 + 6 + 7 + 8) + (3 + 4 + 5 + 6 + 7 + 8) = 96.
+<strong>Explanation:</strong>&nbsp;After the 20<sup>th</sup> day, the total is (1 + 2 + 3 + 4 + 5 + 6 + 7) + (2 + 3 + 4 + 5 + 6 + 7 + 8)
++ (3 + 4 + 5 + 6 + 7 + 8) = 96.
 </pre>
 
 <p>&nbsp;</p>
