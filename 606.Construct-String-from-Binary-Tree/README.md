@@ -16,15 +16,16 @@
 <img alt="" src="https://assets.leetcode.com/uploads/2021/05/03/cons1-tree.jpg" style="width: 292px; height: 301px;">
 <pre><strong>Input:</strong> root = [1,2,3,4]
 <strong>Output:</strong> "1(2(4))(3)"
-<strong>Explanation:</strong> Originally, it needs to be "1(2(4)())(3()())", but you need to omit all the
-unnecessary empty parenthesis pairs. And it will be "1(2(4))(3)"
+<strong>Explanation:</strong> Originally, it needs to be "1(2(4)())(3()())", but you need to omit all the unnecessary empty parenthesis pairs. 
+And it will be "1(2(4))(3)"
 </pre>
 
 <p><strong>Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/05/03/cons2-tree.jpg" style="width: 207px; height: 293px;">
 <pre><strong>Input:</strong> root = [1,2,3,null,4]
 <strong>Output:</strong> "1(2()(4))(3)"
-<strong>Explanation:</strong> Almost the same as the first example, except we cannot omit the first parenthesis pair to break the one-to-one mapping relationship between the input and the output.
+<strong>Explanation:</strong> Almost the same as the first example, except we cannot omit the first parenthesis pair to break the one-to-one 
+mapping relationship between the input and the output.
 </pre>
 
 <p>&nbsp;</p>
