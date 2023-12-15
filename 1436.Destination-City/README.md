@@ -16,7 +16,8 @@
 
 <pre><strong>Input:</strong> paths = [["London","New York"],["New York","Lima"],["Lima","Sao Paulo"]]
 <strong>Output:</strong> "Sao Paulo" 
-<strong>Explanation:</strong> Starting at "London" city you will reach "Sao Paulo" city which is the destination city. Your trip consist of: "London" -&gt; "New York" -&gt; "Lima" -&gt; "Sao Paulo".
+<strong>Explanation:</strong> Starting at "London" city you will reach "Sao Paulo" city which is the destination city. 
+Your trip consist of: "London" -&gt; "New York" -&gt; "Lima" -&gt; "Sao Paulo".
 </pre>
 
 <p><strong>Example 2:</strong></p>
