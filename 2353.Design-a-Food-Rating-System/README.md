@@ -15,7 +15,8 @@
 
 <ul>
 	<li><code>FoodRatings(String[] foods, String[] cuisines, int[] ratings)</code> Initializes the system. The food items are described by <code>foods</code>, <code>cuisines</code> and <code>ratings</code>, all of which have a length of <code>n</code>.
-
+	</li>
+</ul>
 	<ul>
 		<li><code>foods[i]</code> is the name of the <code>i<sup>th</sup></code> food,</li>
 		<li><code>cuisines[i]</code> is the type of cuisine of the <code>i<sup>th</sup></code> food, and</li>
@@ -33,12 +34,14 @@
 
 <pre><strong>Input</strong>
 ["FoodRatings", "highestRated", "highestRated", "changeRating", "highestRated", "changeRating", "highestRated"]
-[[["kimchi", "miso", "sushi", "moussaka", "ramen", "bulgogi"], ["korean", "japanese", "japanese", "greek", "japanese", "korean"], [9, 12, 8, 15, 14, 7]], ["korean"], ["japanese"], ["sushi", 16], ["japanese"], ["ramen", 16], ["japanese"]]
+[[["kimchi", "miso", "sushi", "moussaka", "ramen", "bulgogi"], ["korean", "japanese", "japanese", "greek", "japanese", "korean"],
+[9, 12, 8, 15, 14, 7]], ["korean"], ["japanese"], ["sushi", 16], ["japanese"], ["ramen", 16], ["japanese"]]
 <strong>Output</strong>
 [null, "kimchi", "ramen", null, "sushi", null, "ramen"]
 
 <strong>Explanation</strong>
-FoodRatings foodRatings = new FoodRatings(["kimchi", "miso", "sushi", "moussaka", "ramen", "bulgogi"], ["korean", "japanese", "japanese", "greek", "japanese", "korean"], [9, 12, 8, 15, 14, 7]);
+FoodRatings foodRatings = new FoodRatings(["kimchi", "miso", "sushi", "moussaka", "ramen", "bulgogi"], ["korean", "japanese", 
+"japanese", "greek", "japanese", "korean"], [9, 12, 8, 15, 14, 7]);
 foodRatings.highestRated("korean"); // return "kimchi"
                                     // "kimchi" is the highest rated korean food with a rating of 9.
 foodRatings.highestRated("japanese"); // return "ramen"
