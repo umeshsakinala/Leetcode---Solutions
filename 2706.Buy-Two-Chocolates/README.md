@@ -18,7 +18,8 @@
 
 <pre><strong>Input:</strong> prices = [1,2,2], money = 3
 <strong>Output:</strong> 0
-<strong>Explanation:</strong> Purchase the chocolates priced at 1 and 2 units respectively. You will have 3 - 3 = 0 units of money afterwards. Thus, we return 0.
+<strong>Explanation:</strong> Purchase the chocolates priced at 1 and 2 units respectively. You will have 3 - 3 = 0 units of money afterwards.
+Thus, we return 0.
 </pre>
 
 <p><strong>Example 2:</strong></p>
